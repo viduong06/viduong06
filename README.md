@@ -6,9 +6,9 @@
 - This is my learning journey to become a Backend Developer
 
 
-## 🚀 My Projects
-- [Project 1](https://github.com/duongtv/project1) - Description
-- [Project 2](https://github.com/duongtv/project2) - Description
+## 🚀 My Mini Projects
+- [Project 1](https://github.com/viduong06/QuanLySinhVien) - A simple student management system with basic functionalities.
+- [Project 2](https://github.com/viduong06/LibraryBook) -A library book management application that supports saving and reading book data from files, as well as sorting books by author.
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=duongtv&show_icons=true&theme=radical)

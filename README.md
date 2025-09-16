@@ -1,4 +1,18 @@
 
+# 👋 Hi, I'm Dương Tuệ Vĩ
+
+- 🌱 I’m currently learning **C++ and Java**
+- 💻 Interested in **Databases, Problem-Solving skills**
+- This is my learning journey to become a Backend Developer
+
+
+## 🚀 My Projects
+- [Project 1](https://github.com/duongtv/project1) - Description
+- [Project 2](https://github.com/duongtv/project2) - Description
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duongtv&show_icons=true&theme=radical)
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vi.duong.hehe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/duongvi.06/) 
 
